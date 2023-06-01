@@ -1,0 +1,15 @@
+C:\Users\lox22\source\repos\OOP course\OOP course\bin\Debug\OOP course.exe.config
+C:\Users\lox22\source\repos\OOP course\OOP course\bin\Debug\OOP course.exe
+C:\Users\lox22\source\repos\OOP course\OOP course\bin\Debug\OOP course.pdb
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP course.csproj.AssemblyReference.cache
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP course.csproj.SuggestedBindingRedirects.cache
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP_course.Properties.Resources.resources
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP course.csproj.GenerateResource.cache
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP course.csproj.CoreCompileInputs.cache
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP course.exe
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP course.pdb
+C:\Users\lox22\source\repos\OOP course\OOP course\bin\Debug\MaterialSkin.dll
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP course.csproj.CopyComplete
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP_course.FormLegend.resources
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP_course.FormLongNum.resources
+C:\Users\lox22\source\repos\OOP course\OOP course\obj\Debug\OOP_course.FormAbout.resources
